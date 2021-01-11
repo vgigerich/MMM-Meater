@@ -1,0 +1,16 @@
+/*
+ *
+ * MMM-Meater
+ *
+ *
+ * MIT Licensed.
+ *
+ * Custom here your css module
+ *
+ */
+.currentweather .fa-steak {
+  font-size: 75%;
+  line-height: 65px;
+  display: inline-block;
+  transform: translate(0, -3px);
+}
